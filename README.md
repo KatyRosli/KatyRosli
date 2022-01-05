@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and design.
 - 👩‍💻 I'm a Product Designer.
 - 🌱 I’m currently learning how to code. 
-- 📫 How to reach me katyrosli@gmail.com.
 
 <!---
 KatyRosli/KatyRosli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
