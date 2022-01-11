@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KatyRosli
-- 👀 I’m interested in coding and design.
-- 👩‍💻 I'm a Product Designer.
-- 🌱 I’m currently learning how to code. 
+- 👀 Interested in coding and design.
+- 👩‍💻 Product Designer.
+- 🌱 Learning how to code. 
+- 🇸🇪 Stockholm, Sweden.
 
 <!---
 KatyRosli/KatyRosli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
