@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KatyRosli
 - 👀 Interested in coding and design.
-- 👩‍💻 Product Designer.
-- 🌱 Learning how to code. 
+- 👩‍💻 Product Designer. 
 - 🇸🇪 Stockholm, Sweden.
 
 <!---
