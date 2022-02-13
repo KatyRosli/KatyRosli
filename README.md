@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatyRosli
 - 👀 Interested in coding and design.
-- 👩‍💻 Working as a Product Designer. 
+- 👩‍💻 Front- end Developer. 
 - 🇸🇪 Stockholm, Sweden.
 
 <!---
