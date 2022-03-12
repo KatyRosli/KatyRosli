@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatyRosli
 - 👀 Interested in coding and design.
-- 👩‍💻 Front- end Developer. 
+- 👩‍💻 React JS Frontend Developer, UI Developer.
 - 🇸🇪 Stockholm, Sweden.
 
 <!---
