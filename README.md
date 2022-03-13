@@ -42,4 +42,4 @@ const katy = {
 
 
 
-<img src="https://giphy.com/embed/tphDF37cX68Qz97x0S" width="150"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/tphDF37cX68Qz97x0S/giphy.gif"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
