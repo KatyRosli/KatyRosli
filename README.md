@@ -18,6 +18,12 @@ const katy = {
            tools: ['Git', 'WebPack', 'FontAwesome'],
            frameworks: ['React', 'Bootstrap'],
           },
+  design: {
+           UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 'A/B Testings', 'Wireframes', 'User Research', 'User Personas-Jobs To Be Done'],
+           UI: ['Design System', 'Typography', 'Color Theory', 'Branding' , 'Prototyping'],
+           tools: ['Figma', 'Sketch' , 'Miro'],
+          },
+          
           
 }
 ```
