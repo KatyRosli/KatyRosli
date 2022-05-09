@@ -12,7 +12,7 @@
 const katy = {
   pronouns: 'she' || 'her'
   code: {
-           current: ['JavaScript', 'Typescript', 'HTML', 'CSS'],
+           current: ['JavaScript', 'Typescript', 'HTML', 'CSS', 'Java'],
          },
   tools: {
            tools: ['Git', 'WebPack', 'FontAwesome'],
