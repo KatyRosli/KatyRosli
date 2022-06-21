@@ -16,7 +16,7 @@ const katy = {
          },
   tools: {
            tools: ['Git', 'WebPack', 'FontAwesome'],
-           frameworks: ['React', 'Bootstrap'],
+           frameworks: ['ReactJS', 'Bootstrap', 'NextJS', 'TailwindCSS'],
           },
   design: {
            UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 'A/B Testings', 
