@@ -2,8 +2,9 @@
 <ul>
   <li> 👀 Interested in programming and designing. </li>
 <li> 👩‍💻 Frontend Developer, UI Developer. </li>
-<li>💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.</li>
+<li> 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.</li>
 <li> 🇸🇪 Stockholm, Sweden. </li>
+<li> 📫 How to reach me: katyrosli@gmail.com </li>
 </ul>
 
 
@@ -16,14 +17,14 @@ const katy = {
          },
   tools: {
            tools: ['Git', 'WebPack', 'FontAwesome'],
-           frameworks: ['ReactJS', 'Bootstrap', 'NextJS', 'TailwindCSS'],
+           frameworks: ['ReactJS', 'Bootstrap', 'NextJS'],
           },
   design: {
            UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 'A/B Testings', 
                 'Wireframes', 'User Research', 'User Personas-Jobs To Be Done'],
-           UI: ['Design System', 'Typography', 'Color Theory', 'Branding' , 'Prototyping', 
+           UI: ['Design System', 'Typography', 'Branding' , 'Prototyping', 
                 'Illustrations'],
-           tools: ['Figma', 'Sketch' , 'Miro', 'Adobe Creative Suite'],
+           tools: ['Figma', 'Sketch' , 'Miro', 'Adobe Creative Suite', 'Procreate'],
           },
           
           
