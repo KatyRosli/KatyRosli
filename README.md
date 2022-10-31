@@ -12,11 +12,21 @@
 const katy = {
   pronouns: 'she' || 'her'
   code: {
-           current: ['JavaScript', 'Typescript', 'HTML', 'CSS', 'Java'],
+           ['JavaScript', 'Typescript', 'HTML', 'CSS', 'Java'],
          },
+  frontend: {
+              ['React', 'Redux', 'Webpack', 'HTML', 'jQuery', 
+              'CSS/SASS/styled-components/', 'Bootstrap'],
+            },
+  backend: {
+              ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL'],
+           },   
+  
   tools: {
-           tools: ['Git', 'WebPack', 'FontAwesome'],
-           frameworks: ['ReactJS', 'Bootstrap', 'NextJS'],
+           ['Visual Studio Code', 'Handlebars/Mustache', 'Mocha/Jest', 'Docker', 
+           'Git+GitHub & GitHub Actions', 'Cloud Platforms (AWS, MongoDB Atlas,
+            ElephantSQL, Netlify, Heroku, Contentful)', 'TDD & Agile work methods', 
+            'FontAwesome', 'Google Analytics & Mixpanel & Hotjar', 'Jira'], 
           },
   design: {
            UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 'A/B Testings', 
@@ -25,8 +35,7 @@ const katy = {
                 'Illustrations'],
            tools: ['Figma', 'Sketch' , 'Miro', 'Adobe Creative Suite', 'Procreate'],
           },
-          
-          
+      
 }
 ```
 
