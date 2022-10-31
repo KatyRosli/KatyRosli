@@ -29,8 +29,8 @@ const katy = {
             'FontAwesome', 'Google Analytics & Mixpanel & Hotjar', 'Jira'], 
           },
   design: {
-           UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 'A/B Testings', 
-                'Wireframes', 'User Research', 'User Personas-Jobs To Be Done'],
+           UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 
+                'A/B Testings', 'Wireframes', 'User Research', 'User Personas-Jobs To Be Done'],
            UI: ['Design System', 'Typography', 'Branding' , 'Prototyping', 
                 'Illustrations'],
            tools: ['Figma', 'Sketch' , 'Miro', 'Adobe Creative Suite', 'Procreate'],
