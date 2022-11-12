@@ -1,7 +1,8 @@
 <h1>👋 Hi, I’m  ✨ @KatyRosli ✨ </h1>
 <ul>
 <li> 👩‍💻 Frontend Developer, UX/UI Developer. </li>
-<li> 💞️ I’m looking to collaborate on any web development projects, I'm a curious human being and I love learning new things.</li>
+<li> 💞️ I’m looking to collaborate on any web development projects. </li>
+<li> 🦾 I'm a curious human being and I love learning new things. </li>
 <li> 🇸🇪 Stockholm, Sweden. </li>
 <li> 📫 How to reach me: katyrosli@gmail.com </li>
 </ul>
@@ -19,14 +20,18 @@ const katy = {
               'CSS/SASS/styled-components/', 'Bootstrap'],
             },
   backend: {
-              ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL'],
-           },   
+              ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL',
+              'Axios', 'Nodemon'],
+           }, 
+  test:    {
+              ['Jest'],
+           }, 
   
   tools: {
            ['Visual Studio Code', 'Handlebars/Mustache', 'Mocha/Jest', 'Docker', 
            'Git+GitHub & GitHub Actions', 'Cloud Platforms (AWS, MongoDB Atlas,
             ElephantSQL, Netlify, Heroku, Contentful)', 'TDD & Agile work methods', 
-            'FontAwesome', 'Google Analytics & Mixpanel & Hotjar', 'Jira'], 
+           'FontAwesome', 'Google Analytics & Mixpanel & Hotjar', 'Jira'], 
           },
   design: {
            UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 
