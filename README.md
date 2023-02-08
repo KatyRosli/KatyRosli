@@ -13,10 +13,10 @@
 const katy = {
   pronouns: 'she' || 'her'
   code: {
-           ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Java'],
+           ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
          },
   frontend: {
-              ['React', 'Redux', 'Webpack', 'HTML', 'jQuery', 
+              ['React', 'Redux', 'React Native', 'Webpack', 'HTML', 'jQuery', 
               'CSS/SASS/styled-components/', 'Bootstrap'],
             },
   backend: {
