@@ -16,12 +16,12 @@ const katy = {
            ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
          },
   frontend: {
-              ['React', 'Redux', 'React Native', 'Webpack', 'HTML', 'jQuery', 
-              'CSS/SASS/styled-components/', 'Bootstrap'],
+              ['React', 'Redux', 'React Native', 'Vue', 'Webpack', 'HTML', 'jQuery', 
+              'CSS/SASS/styled-components/', 'Bootstrap', 'Tailwind', 'Vuetify'],
             },
   backend: {
               ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL',
-              'Axios', 'Nodemon'],
+              'Strapi', 'Axios', 'Nodemon'],
            }, 
   test:    {
               ['Jest'],
