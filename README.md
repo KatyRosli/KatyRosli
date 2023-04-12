@@ -16,7 +16,7 @@ const katy = {
            ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
          },
   frontend: {
-              ['React', 'Redux', 'React Native', 'Vue', 'Webpack', 'HTML', 'jQuery', 
+              ['React', 'Redux', 'React Native', 'Vue', 'Angular', 'Webpack', 'HTML', 'jQuery', 
               'CSS/SASS/styled-components/', 'Bootstrap', 'Tailwind', 'Vuetify'],
             },
   backend: {
