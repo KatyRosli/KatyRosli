@@ -30,8 +30,9 @@ const katy = {
   tools: {
            ['Visual Studio Code', 'Handlebars/Mustache', 'Mocha/Jest', 'Docker', 
            'Git+GitHub & GitHub Actions', 'Cloud Platforms (AWS, MongoDB Atlas',
-            'ElephantSQL', 'Netlify', 'Heroku', 'Firebase', 'Vercel', 'Contentful)', 'TDD & Agile work methods', 
-           'FontAwesome', 'Google Analytics & Mixpanel & Hotjar', 'Jira'], 
+           'ElephantSQL', 'Netlify', 'Heroku', 'Firebase', 'Vercel', 'Contentful)', 
+           'TDD & Agile work methods', 'FontAwesome', 'Google Analytics & Mixpanel 
+            & Hotjar', 'Jira'], 
           },
   design: {
            UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 
