@@ -24,7 +24,7 @@ const katy = {
               'Strapi', 'Axios', 'Nodemon'],
            }, 
   test:    {
-              ['Jest'],
+              ['Jest', 'Mocha', 'Jasmine'],
            }, 
   
   tools: {
