@@ -28,7 +28,7 @@ const katy = {
            }, 
   
   tools: {
-           ['Visual Studio Code', 'Handlebars/Mustache', 'Mocha/Jest', 'Docker', 
+           ['Visual Studio Code', 'Handlebars/Mustache', 'Docker', 
            'Git+GitHub & GitHub Actions', 'Cloud Platforms (AWS, MongoDB Atlas',
            'ElephantSQL', 'Netlify', 'Heroku', 'Firebase', 'Vercel', 'Contentful)', 
            'TDD & Agile work methods', 'FontAwesome', 'Google Analytics & Mixpanel 
