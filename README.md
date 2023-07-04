@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m  ✨ @KatyRosli ✨ </h1>
 <ul>
 <li> 👩‍💻 Frontend Developer, FullStack TypeScript Developer. </li>
-<li> 💞️ I’m looking to collaborate on any web development projects. </li>
+<li> 📈 Working in FinTech. </li>
 <li> 🦾 I'm a curious human being and I love learning new things. </li>
 <li> 🇸🇪 Stockholm, Sweden. </li>
 <li> 📫 How to reach me: katyrosli@gmail.com </li>
