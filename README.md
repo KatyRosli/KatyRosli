@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m  ✨ @KatyRosli ✨ </h1>
 <ul>
-<li> 👩‍💻 FullStack Developer. </li>
+<li> 👩‍💻 Fullstack Developer. </li>
 <li> 📈 Working in FinTech. </li>
 <li> 🦾 I'm a curious human being and I love learning new things. </li>
 <li> 🇸🇪 Stockholm, Sweden. </li>
