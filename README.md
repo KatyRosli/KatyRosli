@@ -1,6 +1,6 @@
 <h1>👋 Hi, I’m  ✨ @KatyRosli ✨ </h1>
 <ul>
-<li> 👩‍💻 Frontend Developer, FullStack TypeScript Developer. </li>
+<li> 👩‍💻 FullStack Developer. </li>
 <li> 📈 Working in FinTech. </li>
 <li> 🦾 I'm a curious human being and I love learning new things. </li>
 <li> 🇸🇪 Stockholm, Sweden. </li>
@@ -13,7 +13,7 @@
 const katy = {
   pronouns: 'she' || 'her'
   code: {
-           ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java'],
+           ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java', 'Python'],
          },
   frontend: {
               ['React', 'Redux', 'React Native', 'Vue', 'Angular', 'Webpack', 'HTML', 'jQuery', 
@@ -21,7 +21,7 @@ const katy = {
             },
   backend: {
               ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL',
-              'Strapi', 'Axios', 'Nodemon'],
+              'Strapi', 'Axios', 'Nodemon', 'Spring Boot', 'Django'],
            }, 
   test:    {
               ['Jest', 'Mocha', 'Jasmine'],
