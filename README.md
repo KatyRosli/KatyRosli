@@ -38,7 +38,7 @@ const katy: Developer = {
   role: "Fullstack FinTech Developer",
   skills: {
     languages: ["TypeScript", "JavaScript", "Java", "Python"],
-    frontend: ["React (TSX)", "Next.js", "Tailwind CSS"],
+    frontend: ["React (TSX)", "Next.js", "Tailwind CSS", "Storybook"],
     backend: ["Node.js", "Express", "PostgreSQL", "GraphQL"]
   }
 };
