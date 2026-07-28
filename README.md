@@ -1,70 +1,46 @@
-<h1>👋 Hi, I’m  ✨ @KatyRosli ✨ </h1>
-<ul>
-<li> 👩‍💻 Fullstack Developer. </li>
-<li> 📈 Working in FinTech. </li>
-<li> 🦾 I'm a curious human being and I love learning new things. </li>
-<li> 🇸🇪 Stockholm, Sweden. </li>
-<li> 📫 How to reach me: katyrosli@gmail.com </li>
-</ul>
+# 👋 Hi, I’m Katy Rosli 
 
+### 🚀 Fullstack Developer & UX/UI Specialist
+I'm a Stockholm-based Fullstack Developer working in FinTech with a deep background in product design. I bridge the gap between complex backend systems and intuitive user experiences.
 
+[![Website](https://img.shields.io/badge/Website-katyrosli.com-black?style=flat-square&logo=google-chrome)](https://www.katyrosli.com)
+[![Blog](https://img.shields.io/badge/Blog-codewithkatyrosli-blue?style=flat-square&logo=hashnode)](https://www.codewithkatyrosli.com/blog)
+[![Email](https://img.shields.io/badge/Email-katyrosli%40gmail.com-red?style=flat-square&logo=gmail)](mailto:katyrosli@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Stockholm%2C%20Sweden-lightgrey?style=flat-square&logo=google-maps)]()
 
-```javascript
-const katy = {
-  pronouns: 'she' || 'her'
-  code: {
-           ['TypeScript', 'JavaScript', 'HTML', 'CSS', 'Java', 'Python'],
-         },
-  frontend: {
-              ['React', 'Redux', 'React Native', 'Vue', 'Angular', 'Webpack', 'HTML', 'jQuery', 
-              'CSS/SASS/styled-components/', 'Bootstrap', 'Tailwind', 'Vuetify'],
-            },
-  backend: {
-              ['NodeJS', 'ExpressJS', 'REST', 'GraphQL', 'MongoDB/PostgreSQL',
-              'Strapi', 'Axios', 'Nodemon', 'Spring Boot', 'Django'],
-           }, 
-  test:    {
-              ['Jest', 'Mocha', 'Jasmine'],
-           }, 
-  
-  tools: {
-           ['Visual Studio Code', 'Handlebars/Mustache', 'Docker', 
-           'Git+GitHub & GitHub Actions', 'Cloud Platforms (AWS, MongoDB Atlas',
-           'ElephantSQL', 'Netlify', 'Heroku', 'Firebase', 'Vercel', 'Contentful)', 
-           'TDD & Agile work methods', 'FontAwesome', 'Google Analytics & Mixpanel 
-            & Hotjar', 'Jira'], 
-          },
-  design: {
-           UX: ['User Interviews', 'User Testings', 'User Journeys', 'Site Maps', 
-                'A/B Testings', 'Wireframes', 'User Research', 'User Personas-Jobs To Be Done'],
-           UI: ['Design System', 'Typography', 'Branding' , 'Prototyping', 
-                'Illustrations'],
-           tools: ['Figma', 'Sketch' , 'Miro', 'Adobe Creative Suite', 'Procreate'],
-          },
-      
+---
+
+### 💡 About Me
+
+- 📈 **Currently:** Fullstack Developer in the **FinTech** space.
+- 🎨 **Background:** Senior Product / UX/UI Designer (2015–2021) turned Software Engineer (2021–Present).
+- 🏆 **Recent Highlight:** **MUSE Design Award Silver Winner (2026)**.
+- 🧠 **Mindset:** Naturally curious, perpetual learner, and passionate about building scalable, human-centered web applications.
+
+---
+
+### 💻 `whoami.ts`
+
+interface Developer {
+  name: string;
+  role: string;
+  skills: {
+    languages: string[];
+    frontend: string[];
+    backend: string[];
+  };
 }
-```
 
-
-
-🛠️ My favorite languages and tools
-
-<p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Typescript" src="https://img.shields.io/badge/Typescript-3178C6.svg?logo=TypeScript&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-</p>
-
-
+const katy: Developer = {
+  name: "Katy Rosli",
+  role: "Fullstack FinTech Developer",
+  skills: {
+    languages: ["TypeScript", "JavaScript", "Java", "Python"],
+    frontend: ["React (TSX)", "Next.js", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "PostgreSQL", "GraphQL"]
+  }
+};
 
 <img src="https://media.giphy.com/media/tphDF37cX68Qz97x0S/giphy.gif"> 
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
