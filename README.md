@@ -21,6 +21,8 @@ I'm a Stockholm-based Fullstack Developer working in FinTech with a deep backgro
 
 ### 💻 `whoami.ts`
 
+
+```typescript
 interface Developer {
   name: string;
   role: string;
@@ -40,6 +42,7 @@ const katy: Developer = {
     backend: ["Node.js", "Express", "PostgreSQL", "GraphQL"]
   }
 };
+```
 
 <img src="https://media.giphy.com/media/tphDF37cX68Qz97x0S/giphy.gif"> 
 
