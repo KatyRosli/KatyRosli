@@ -13,7 +13,7 @@ I'm a Stockholm-based Frontend Developer working in FinTech with a deep backgrou
 ### 💡 About Me
 
 - 📈 **Currently:** Frontend Developer in the **FinTech** space.
-- 🎨 **Background:** Senior Product / UX/UI Designer (2015–2021) turned Software Engineer (2021–Present).
+- 🎨 **Background:** Senior Product / UX/UI Designer (2015–2021) turned Software Developer (2021–Present).
 - 🏆 **Recent Highlight:** **MUSE Design Award Silver Winner (2026)**.
 - 🧠 **Mindset:** Naturally curious, perpetual learner, and passionate about building scalable, human-centered web applications.
 
