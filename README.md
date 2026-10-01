@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Katy Rosli 
 
-### 🚀 Frontend Developer & UX/UI Specialist
+### 🚀 Fullstack Developer & UX/UI Specialist
 I'm a Stockholm-based Frontend Developer working in FinTech with a deep background in product design. I bridge the gap between complex backend systems and intuitive user experiences.
 
 [![Website](https://img.shields.io/badge/Website-katyrosli.com-black?style=flat-square&logo=google-chrome)](https://www.katyrosli.com)
