@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Katy Rosli 
 
-### 🚀 Fullstack Developer & UX/UI Specialist
-I'm a Stockholm-based Frontend Developer working in FinTech with a deep background in product design. I bridge the gap between complex backend systems and intuitive user experiences.
+### 🚀 Full Stack Developer & UX/UI Specialist
+I'm a Stockholm-based Full Stack Developer working in FinTech with a deep background in product design. I bridge the gap between complex backend systems and intuitive user experiences.
 
 [![Website](https://img.shields.io/badge/Website-katyrosli.com-black?style=flat-square&logo=google-chrome)](https://www.katyrosli.com)
 [![Blog](https://img.shields.io/badge/Blog-codewithkatyrosli-blue?style=flat-square&logo=hashnode)](https://www.codewithkatyrosli.com/blog)
@@ -35,11 +35,11 @@ interface Developer {
 
 const katy: Developer = {
   name: "Katy Rosli",
-  role: "Frontend FinTech Developer",
+  role: "Full Stack Developer",
   skills: {
     languages: ["TypeScript", "JavaScript", "Java", "Python"],
     frontend: ["React (TSX)", "Next.js", "Tailwind CSS", "Storybook"],
-    backend: ["Node.js", "Express", "PostgreSQL", "GraphQL"]
+    backend: ["Node.js", "Express", "Django", "PostgreSQL", "GraphQL"]
   }
 };
 ```
