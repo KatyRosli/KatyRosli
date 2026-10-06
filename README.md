@@ -12,7 +12,7 @@ I'm a Stockholm-based Full Stack Developer working in FinTech with a deep backgr
 
 ### 💡 About Me
 
-- 📈 **Currently:** Frontend Developer in the **FinTech** space.
+- 📈 **Currently:** Full Stack Developer in the **FinTech** space.
 - 🎨 **Background:** Senior Product / UX/UI Designer (2015–2021) turned Software Developer (2021–Present).
 - 🏆 **Recent Highlight:** **MUSE Design Award Silver Winner (2026)**.
 - 🧠 **Mindset:** Naturally curious, perpetual learner, and passionate about building scalable, human-centered web applications.
